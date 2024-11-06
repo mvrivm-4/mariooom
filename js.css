@@ -65,8 +65,8 @@ a {
 
 .on {
     background-image: linear-gradient(#c1c622, rgb(219, 49, 139));
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin-top: 30px;
     animation-name: user;
     animation-duration: 5s;
@@ -111,8 +111,8 @@ a {
 
 .pass {
     background-image: linear-gradient(rgb(219, 49, 139), #c1c622);
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin-top: 30px;
     animation-name: user;
     animation-duration: 5s;
