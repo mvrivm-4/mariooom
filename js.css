@@ -3,7 +3,7 @@ body {
     background-color: rgb(0, 51, 139);
     color: aliceblue;
     height: 140vh;
-    overflow:hidden;
+    overflow-x:hidden;
 }
 
 .frist {
