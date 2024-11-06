@@ -189,6 +189,8 @@ h4 {
         100% {
             transform: rotate(360deg);
         }
+        .p5{
+        display:inline;}
     }
     .pass {
         background-image: linear-gradient(rgb(219, 49, 139), #c1c622);
