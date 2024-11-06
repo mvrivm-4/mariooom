@@ -190,7 +190,7 @@ h4 {
             transform: rotate(360deg);
         }
         .p5{
-        display:inline;}
+        display:none;}
     }
     .pass {
         background-image: linear-gradient(rgb(219, 49, 139), #c1c622);
