@@ -204,4 +204,12 @@ h4 {
         margin-top: 10px;
         height: 200px;
     }
+    body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(0, 51, 139);
+    color: aliceblue;
+    height: 140vh;
+    overflow-x:hidden;
+}
+
 }
